@@ -1,6 +1,7 @@
 <?php
 
-$open = opendir('file:///C:/Program Files/xampp/htdocs/cipac/base_cipac/Management/ELP/Formulaires');
-echo $open;
+include __DIR__.'/../front/menu.html';
+include __DIR__.'/../front/formulaire.html';
+include __DIR__.'/../front/footer.html';
 
 
