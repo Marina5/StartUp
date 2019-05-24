@@ -9,7 +9,9 @@ h1 {
 
 .StartUp {
     color:#3DC2D8 !important;
-    padding: 1.4286em .8575em !important;
+    padding: 1.4286em .8575em 1.4286em .8575em !important;
+    font-size: 17px;
+    text-transform: uppercase;
 }
 .nav 
 {
@@ -17,4 +19,19 @@ h1 {
 }
 .nav-link {
     color:#E7E1D0 !important;
+}
+
+footer {
+    background-color: #5e201e;
+    position: absolute;
+    bottom: 0;
+    padding:.5%;
+    color:#E7E1D0;
+    width: 100%;
+}
+
+table, td, th 
+{
+    border:1px solid black;
+    padding:15px;;
 }
