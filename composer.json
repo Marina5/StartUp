@@ -1,0 +1,6 @@
+{
+    "require-dev": {
+        "phpunit/phpunit": "8",
+        "behat/behat": "^3.5"
+    }
+}
