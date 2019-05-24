@@ -1,6 +1,6 @@
 <ul class="nav nav-tabs">
     <li class="nav-item">
-        <a class="nav-link active" href="">Super StratUp</a>
+        <a class="StartUp" href="">Super StratUp</a>
     </li>
     <li class="nav-item">
         <a class="nav-link" href="dashboard.html.php">Dashboard</a>
