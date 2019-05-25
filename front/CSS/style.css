@@ -1,12 +1,25 @@
+body {
+    background-color: #e1d0e7 !important;
+}    
 h1 {
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+    margin-top:20px;
+}
+.row {
+    margin:0 !important;
+}
+.label {
     font-size: 15px;
     text-transform: uppercase;
-}
+    color: #5e201e !important;
 
+}
 .nav-link {
     font-size: 17px !important;
 }
-
 .StartUp {
     color:#3DC2D8 !important;
     padding: 1.4286em .8575em 1.4286em .8575em !important;
@@ -20,7 +33,6 @@ h1 {
 .nav-link {
     color:#E7E1D0 !important;
 }
-
 footer {
     background-color: #5e201e;
     position: absolute;
@@ -29,9 +41,11 @@ footer {
     color:#E7E1D0;
     width: 100%;
 }
-
 table, td, th 
 {
     border:1px solid black;
     padding:15px;;
+}
+.btn-primary {
+    background-color:#3DC2D8 !important;
 }

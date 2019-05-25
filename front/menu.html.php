@@ -12,7 +12,7 @@
         <a class="nav-link" href="formulaire.html.php">Ajouter Action</a>
     </li>
     <li class="nav-item">
-        <a class="nav-link" href="options.html.php">Options</a>
+        <a class="nav-link" href="#">Options</a>
     </li>
 </ul>
 

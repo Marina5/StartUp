@@ -1,6 +1,9 @@
 
 <?php include ('header.html.php'); ?>
-        <table>
+<h1>Dashboard Super StartUp</h1>
+<div class="row justify-content-center">
+    <div class="col-10">
+        <table width="100%">
             <tbody>
                 <tr>
                     <th>Date</th>
@@ -24,5 +27,7 @@
                 </tr>
             </tbody>
         </table>
+    </div>
+</div>
         <?php include ('footer.html.php'); ?>
     

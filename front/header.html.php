@@ -2,7 +2,7 @@
 <html>
     <body>
         <?php include ('menu.html.php'); ?>
-        <h1>Dashboard Super StartUp</h1>
+        
         
         <head>
     <meta charset="utf-8" />
